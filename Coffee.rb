@@ -32,3 +32,4 @@ cup_only = Coffee.new(ratio: 25, grams:26)
 
 p Coffee_ratio.cratio(23)
 p "This is git"
+d
